@@ -125,7 +125,7 @@ vrushabhpatil48
 - [Ahzem](https://github.com/ahzem) **Love to OpenSource**
 - [Elmer](https://github.com/baca217) **Hello world!**
 - [JoksimovicM](https://github.com/JoksimovicM) **Probably should've done this sooner**
-- [dink42](https://github.com/dink42) **Same here! A bit late to this**
+- [@dink42](https://github.com/dink42) **Same here! A bit late to this**
 - [Jae Choi] (https://github.com/JCz-Zen) **👁👄👁 👍👍**
 - [@talhakammybond] (https://github.com/talhakammybond) 0️⃣0️⃣7️⃣
 - [Leo Raggio](https://github.com/leoraggio) **Hello World!**

@@ -1,5 +1,6 @@
 # Contributors 
 - [Sanil-Surve](https://github.com/Sanil-Surve) **Good Contribution** 
+- [dink42](https://github.com/dink42) **My first contribution, a bit late, the one before did not get merged so im trying again**
 - [SavvyHex](https://github.com/SavvyHex) First Contribution!
 - [Haily Belle Stevens](https://github.com/hailystevens) **see yall at the finish line
 - [Suraj Mitake](https://github.com/mitake2003) **First Constribution 😊**
